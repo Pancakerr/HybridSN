@@ -19,20 +19,14 @@ torchinfo 1.6.1
 # Results
 
 
-<img src="results/IP_RGB_origin.jpg">
-<img src="results/IP_gt.jpg">
-<img src="results/IP/prediction_MASKED.jpg">
+<img src="results/IP_RGB_origin.jpg"><img src="results/IP_gt.jpg"><img src="results/IP/prediction_MASKED.jpg">
 
 Fig. Images of IndianPines (a) RGB  (b) groundtruth  (c) predition
 
-<img src="results/PU_RGB_origin.jpg">
-<img src="results/PU_gt.jpg">
-<img src="results/PU/prediction_MASKED.jpg">
+<img src="results/PU_RGB_origin.jpg"><img src="results/PU_gt.jpg"><img src="results/PU/prediction_MASKED.jpg">
 
 Fig. Images of Pavia University (a) RGB  (b) groundtruth  (c) predition
 
-<img src="results/SA_RGB_origin.jpg">
-<img src="results/SA_gt.jpg">
-<img src="results/SA/prediction_MASKED.jpg">
+<img src="results/SA_RGB_origin.jpg"><img src="results/SA_gt.jpg"><img src="results/SA/prediction_MASKED.jpg">
 
 Fig. Images of Salinas Scene (a) RGB  (b) groundtruth  (c) predition
