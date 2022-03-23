@@ -12,8 +12,11 @@ Official keras code: [gokriznastic/HybridSN
 # Requirements
 
 pytorch 1.9.0
+
 scikit-learn 1.0.2
+
 spectral 0.22.2
+
 torchinfo 1.6.1
 
 # Results
