@@ -1,0 +1,25 @@
+OA: 0.9969105691056911
+AA: 0.9966108167067833
+Kappa: 0.9964777531603989
+                              precision    recall  f1-score   support
+
+                     Alfalfa     0.9643    1.0000    0.9818        27
+                 Corn-notill     0.9953    0.9953    0.9953       857
+                Corn-mintill     0.9980    0.9960    0.9970       498
+                        Corn     0.9859    0.9859    0.9859       142
+               Grass-pasture     1.0000    1.0000    1.0000       290
+                 Grass-trees     1.0000    1.0000    1.0000       438
+         Grass-pasture-mowed     1.0000    1.0000    1.0000        17
+               Hay-windrowed     0.9931    1.0000    0.9965       287
+                        Oats     0.9231    1.0000    0.9600        12
+              Soybean-notill     1.0000    1.0000    1.0000       583
+             Soybean-mintill     0.9966    0.9973    0.9969      1474
+               Soybean-clean     0.9944    0.9944    0.9944       356
+                       Wheat     1.0000    1.0000    1.0000       123
+                       Woods     1.0000    0.9947    0.9974       759
+Buildings-Grass-Trees-Drives     1.0000    1.0000    1.0000       231
+          Stone-Steel-Towers     0.9821    0.9821    0.9821        56
+
+                    accuracy                         0.9969      6150
+                   macro avg     0.9896    0.9966    0.9930      6150
+                weighted avg     0.9969    0.9969    0.9969      6150
