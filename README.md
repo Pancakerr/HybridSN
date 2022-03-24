@@ -24,12 +24,12 @@ torchinfo 1.6.1
 
 <img src="results/IP_RGB_origin.jpg" width = "200" height = "200" align=center /> <img src="results/IP_gt.jpg" width = "200" height = "200"  align=center /> <img src="results/IP/prediction_masked.jpg" width = "200" height = "200" align=center />
 
-Fig. Images of IndianPines (a) RGB  (b) groundtruth  (c) predition
+Fig. IndianPines (a) RGB  (b) groundtruth  (c) predition
 
 <img src="results/PU_RGB_origin.jpg" width = "100" height = "200" align=center /> <img src="results/PU_gt.jpg" width = "100" height = "200" align=center /> <img src="results/PU/prediction_masked.jpg" width = "100" height = "200" align=center />
 
-Fig. Images of Pavia University (a) RGB  (b) groundtruth  (c) predition
+Fig. Pavia University (a) RGB  (b) groundtruth  (c) predition
 
 <img src="results/SA_RGB_origin.jpg" width = "100" height = "200" align=center /> <img src="results/SA_gt.jpg" width = "100" height = "200" align=center /> <img src="results/SA/prediction_masked.jpg" width = "100" height = "200" align=center />
 
-Fig. Images of Salinas Scene (a) RGB  (b) groundtruth  (c) predition
+Fig. Salinas Scene (a) RGB  (b) groundtruth  (c) predition
